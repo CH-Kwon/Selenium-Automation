@@ -1,0 +1,8 @@
+selenium>=4.0
+
+#Note
+- All of script use a shared "init_Driver" helper from utils/driver_setup.py
+- Each file can be run individually and is self-contained.
+- "if__name__ == '__main__':" is used to allow running the script directly.
+- This repo is grwoing collection - more example is coming soon!
+
